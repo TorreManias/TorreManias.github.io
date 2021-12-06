@@ -1,4 +1,35 @@
 * {
     margin: 0px;
     padding: 0px;
+    font-family: 'Readex Pro', sans-serif;
+    color: white;
 }
+
+body {
+    background-color: #000000;
+    opacity: 1;
+    background-image:  radial-gradient(#696969 2px, transparent 2px), radial-gradient(#696969 2px, #000000 2px);
+    background-size: 80px 80px;
+    background-position: 0 0,40px 40px;
+}
+
+/* Header */
+
+header {
+    text-align: center;
+    padding: 4rem;
+}
+
+.title {
+    font-family: 'Readex Pro', sans-serif;
+    font-size: 4rem;
+}
+
+.subtitle {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 1.5rem;
+}
+
+/* Main content */
+
+/* Tower shape */
